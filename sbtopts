@@ -1,0 +1,5 @@
+-sbt-create
+-sbt-version  1.4.5
+-scala-home /usr/local/scala
+-scala-version 3.0.0-M
+-java-home /usr/lib/jvm/default-jvm/jre
